@@ -6,7 +6,7 @@ import net.minecraft.network.packet.c2s.play.PlayerMoveC2SPacket;
 
 public class NoFall extends Module {
     public NoFall() {
-        super("Feetsy Protection", "Turns terminal velocity into a light inconvenience", Category.PLAYER, true, false, false);
+        super("Feetsy Protection", "No more hurt feetsy's from stubbed toes);
     }
 
     @Override
