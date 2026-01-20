@@ -5,7 +5,7 @@ import net.minecraft.item.Items;
 
 public class FastPlace extends Module {
     public FastPlace() {
-        super("To mcuh sugar", "Makes you throw exp faster", Category.PLAYER, true, false, false);
+        super("Too much sugar", "Fresh on sugar);
     }
 
     @Override public void onUpdate() {
